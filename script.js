@@ -21,7 +21,7 @@ function foge(botao) {
 }
 
 function aceitou() {
-    alert("Sábia escolha! ❤️ Agora você terá que me aguentar para sempre!");
+    alert("Agora você não tem mais volta! ❤️ Agora você é minha pra sempre!");
     
     window.location.href = "https://www.youtube.com/watch?v=fGPcm1I7U90";
 }
